@@ -1,0 +1,67 @@
+Today you will be working off a video tutorial of your choice.
+There are three videos and are of varying demand.  A key component
+to growing as a developer is to become aware of where you are in your
+understanding.  Each of these apps will challenge you and reinforce 
+your understanding.  However, choosing one that is too difficult or
+too easy will not foster growth.  Therefore, we have categorized these
+tutorials as Bronze, Silver, and Gold.  Below is a brief description.
+
+****It is important to note that these tutorials will
+incorporate concepts not yet covered in class - this is common as a 
+developer.  I normally research a new concept then I will place
+comments in my code so I can reference what I've learned.  
+You can also add another package in your Java-Library project
+and play around with a concept. For instance, you'll see try/catch
+in the Bronze project.****
+
+For this project you will need to use repl.it
+If you have not done so, please create a repl account. 
+This is an example of a tic tac toe app in repl.  Ethan has worked
+on this and there are some awesome concepts included.  Use ths to see
+how repl works.  Also, going through his repl and commenting on the 
+code is a great way to warm up your mind for the day.  I would 
+encourage you to take 5-10 minutes and do this but don't spend too
+long on this.
+
+Tic Tac Toe
+Link:  https://repl.it/DkH9/6
+
+The repls you create will be a way to have console apps you've built
+be available on your portfolio. 
+
+STEP 1 - Read through and Choose one of these apps:
+
+1.  Calculator Console App (Bronze)  I TRIED THIS ONE 5 TIMES, 4 TIMES GOT "ERROR OCCURRED MESSAGE" AND OTHER TIME TOO BLURRY 
+			TO READ.  NOT A VIABLE OPTION.  
+	Link: https://www.youtube.com/watch?v=lZkj7MMwjNA
+	-uses classes and switches.
+	-great choice to reinforce OOP and some different logic
+	 we have gone over in class.
+	 
+2.  Gradebook Console App (Silver) 
+	Link: https://www.youtube.com/watch?v=OBfBvqg9qhc - by the wonderful Kevin Olsen!!
+	-uses data collections, especially ArrayLists.
+	-also great to reinforce while loops and nested conditionals
+	
+3.  Blackjack Console App (Gold)
+	Link:  https://www.youtube.com/watch?v=xLhgqPUHoVs
+	-similar to the Calculator and Gradebook but OOP and logic is
+	 expanded as complexity has increased.
+	 
+STEP 2 - Build the console app following the tutorial
+         Make sure to research new concepts and to annotate your
+         code so you can demonstrate understanding
+
+STEP 3 - By yourself or with a partner(if partner make sure you are
+		 both completing the same tutorial) think of ways to improve
+		 upon this tutorial build.  For example, the gradebook app
+		 is great but what if we wanted to attach the grades to a 
+		 student id or student name?
+
+STEP 4 - Pair Program with your partner or work by yourself and make
+         any changes you would like.  At this time, you may want to
+         completely branch in a new direction and take what you have
+         learned and create something totally new!  
+         ;p[
+         
+  

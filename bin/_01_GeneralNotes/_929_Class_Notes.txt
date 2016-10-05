@@ -1,0 +1,22 @@
+Had challenges with YouTube.  Used the 1150 Mac in lobby to do Bronze Challenge & it was constantly buffering
+	Problem me or YouTube????
+
+Was to do work in Repl.it, but there was something to turn off to succeed.
+
+You Tube Video is 20.52 and had not sound - only visual.
+
+What is new to me (not covered in class earlier this week)
+	Create class that will be containing method == is a public class
+		Did the Hello World exercise [our library _02_HelloWorld
+	
+	Create Custom Package (instead of default one)
+		Define main function = in public static void -----
+		
+	Create Class that will contain main methods (the runnable one).
+		
+	Create calculator's class (will be responsible for all computing)  -- this is in _929_Bronze
+		This method passes 
+	
+			
+			
+			}
